@@ -1,0 +1,24 @@
+body{
+  background: url('../images/index_back.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.one-third{
+  width: 33%;
+  height: 80vh;
+}
+
+.first-back{
+  background: url('../images/628/1.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.second-back{
+  background: url('../images/629/4.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.third-back{
+  background: url('../images/630/3.jpg') no-repeat center;
+  background-size: cover;
+}
